@@ -1,15 +1,15 @@
-id: joe2.0
-name: Joe2.0
+id: jiang
+name: Jiang
 author:
-  name: M酷
-  website: https://bbchin.com
-description: Halo主题 Joe2.0
-logo: https://bbchin.com/logo
-website: https://bbchin.com
-repo: https://github.com/qinhua/halo-theme-joe2.0
+  name: Jiang
+  website: https://www.jiangchangxiong.com
+description: Halo主题 Jiang
+logo: https://cdn.jiangchangxiong.com/logo.png
+website: https://www.jiangchangxiong.com
+repo: https://github.com/gzhola/jiang-theme
 cover: https://cdn.jsdelivr.net/gh/qinhua/halo-theme-joe2.0@master/source/img/dp/welcome.jpg
-version: 1.0.9
-require: ^1.4.11
+version: 2.0.0
+require: ^2.0.0
 # 文章页 meta 变量
 postMetaField:
   - enable_passage_tips
